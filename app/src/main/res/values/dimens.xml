@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="mg_sm">16dp</dimen>
+    <dimen name="mg_md">32dp</dimen>
+    <dimen name="mg_lg">45dp</dimen>
+    <dimen name="mg_xl">62dp</dimen>
+
+    <dimen name="tx_sm">16sp</dimen>
+    <dimen name="tx_md">18sp</dimen>
+    <dimen name="tx_lg">24sp</dimen>
+    <dimen name="tx_xl">32sp</dimen>
+</resources>
